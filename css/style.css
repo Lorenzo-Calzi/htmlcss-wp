@@ -182,8 +182,7 @@ main{
 
  #img_right{
     height: 180px;
-    width: 200px;
-    
+    width: 200px; 
  }
 
  #titolo_right{
@@ -204,14 +203,17 @@ main{
 .container_footer{
     width: 100%;
     height: 35px;
-    background-color:turquoise;
 }
 
 .credits{
     width: 200px;
     height: 35px;
-    background-color: teal;
     position: absolute;
     right: 45%;
+    text-align: center;   
+}
+
+#hearts{
+    color: red;
 }
 /* /Footer */
