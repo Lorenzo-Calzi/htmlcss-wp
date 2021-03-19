@@ -52,7 +52,7 @@ header{
 
 a{
     text-decoration: none;
-    color: grey;
+    color: #868686;
 }
 /* /Header */
 
@@ -87,7 +87,6 @@ a{
     font-size: 30px;
     line-height: 30px;
     color: white;
-
 }
 
 #content_2{
@@ -114,7 +113,7 @@ a{
 .sottotitolo{
     width: 23%;
     height: 20px;
-    color: gray;
+    color: #929292;
     margin-bottom: 30px;
 }
 
@@ -139,7 +138,7 @@ a{
  }
 
 #paragrafo_left{
-    color: gray;
+    color: #939393;
     margin-top: 5px;
 }
 /* /Colonna Sinistra */
@@ -167,7 +166,7 @@ a{
  }
 
 #paragrafo_center{
-    color: gray;
+    color: #939393;
     margin-top: 5px;
 }
 /* /Colonna Centrale */
@@ -194,7 +193,7 @@ a{
  }
 
 #paragrafo_right{
-    color: gray;
+    color: #939393;
     margin-top: 5px;
 }
 /* /Colonna Destra */
